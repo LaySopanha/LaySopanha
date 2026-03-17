@@ -8,7 +8,7 @@ I really love the concept of Machine Learning, I also like to build stuff hence 
 
 ### ❖ What I Am Currently Doing
 - **Software Engineering:** building a hotel API aggrator platform for cambodia that integrate with a massive Hotel API provider TravelBulz, we're currently in development phase right now. My responsiblility is the backend development.
-- **Data Science Research:** I just submit a paper in the recent ACET 2025 which is a conference hosted by Cambodia Academy of Digital Technology, a tech base university in cambodia for ASEAN data science researcher. Currently Im researching in the application of Deep Learning for biomedical field, usinng Deep Learning for electroencephalography.
+- **Data Science Research:** I just submit a paper in the recent ACET 2025 which is a conference hosted by Cambodia Academy of Digital Technology, a tech base university in cambodia for ASEAN data science researcher. Currently Im researching in the application of Deep Learning for biomedical field, using Deep Learning for electroencephalography.
 
 ### ❖ Core Tools & Technologies
 - **Software Development:** Laravel, Vue Js, Next Js, 
