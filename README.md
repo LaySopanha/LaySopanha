@@ -35,5 +35,5 @@ There are many more technologies stack I work with before but these are the main
 ### ❖ Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-laysopanha.site-2b3137?style=flat-square&logo=google-chrome&logoColor=white)](https://www.laysopanha.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Flay--sopanha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lay-sopanha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Flay--sopanha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lay-sopanha-12a62b2b4)
 [![Email](https://img.shields.io/badge/Email-sopanhalay.official%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sopanhalay.official@gmail.com)
